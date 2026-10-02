@@ -1,0 +1,1 @@
+declare function GET_PLAYER_ACTOR(arg0: number): number;

@@ -1,0 +1,58 @@
+{
+    "(files)/game_folder/scripts/example_script.js":  {
+                                                          "LastWriteTime":  639264104972232305,
+                                                          "Length":  2810
+                                                      },
+    "(files)/game_folder/scripts/types/gta-opcodes.d.ts":  {
+                                                               "LastWriteTime":  639264059376132883,
+                                                               "Length":  162628
+                                                           },
+    "(files)/game_folder/scripts/types/default-types.d.ts":  {
+                                                                 "LastWriteTime":  639265703778652390,
+                                                                 "Length":  958
+                                                             },
+    "(files)/game_folder/scripts/skin_selector.js":  {
+                                                         "LastWriteTime":  639265769689626477,
+                                                         "Length":  13743
+                                                     },
+    "(files)/game_folder/scripts/types/aliases.d.ts":  {
+                                                           "LastWriteTime":  639264059650399903,
+                                                           "Length":  56
+                                                       },
+    "(files)/game_folder/scripts/opcodes.js":  {
+                                                   "LastWriteTime":  639264051001395781,
+                                                   "Length":  167786
+                                               },
+    "(files)/game_folder/scripts/reset_money.js":  {
+                                                       "LastWriteTime":  639264103493868368,
+                                                       "Length":  525
+                                                   },
+    "(files)/game_folder/scripts/skin_selector_pm.js":  {
+                                                            "LastWriteTime":  639265771274872826,
+                                                            "Length":  11425
+                                                        },
+    "(files)/game_folder/scripts/testRedirect.js":  {
+                                                        "LastWriteTime":  639264069130819672,
+                                                        "Length":  301
+                                                    },
+    "libs/armeabi-v7a/libJavascriptPlugins.so":  {
+                                                     "LastWriteTime":  639265786352257389,
+                                                     "Length":  1413632
+                                                 },
+    "libs/arm64-v8a/libJavascriptPlugins64.so":  {
+                                                     "LastWriteTime":  639265786351817220,
+                                                     "Length":  2434264
+                                                 },
+    "(files)/game_folder/scripts/car_spawn.js":  {
+                                                     "LastWriteTime":  639265709014971053,
+                                                     "Length":  13472
+                                                 },
+    "(files)/game_folder/scripts/save_game.js":  {
+                                                     "LastWriteTime":  639264101013142062,
+                                                     "Length":  266
+                                                 },
+    "(files)/game_folder/scripts/extra_opcodes.js":  {
+                                                         "LastWriteTime":  639265684643035624,
+                                                         "Length":  144
+                                                     }
+}

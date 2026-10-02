@@ -1,0 +1,3 @@
+libs/arm64-v8a/libJavascriptPlugins64.so > mods/libJavascriptPlugins64.so
+libs/armeabi-v7a/libJavascriptPlugins.so > mods/libJavascriptPlugins.so
+(files)/game_folder > /
